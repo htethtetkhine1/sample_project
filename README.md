@@ -4,3 +4,7 @@
 
 - body
 
+# branch structure
+ - master
+ - develop - feature/about_markdown
+ 
